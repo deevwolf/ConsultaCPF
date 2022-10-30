@@ -99,5 +99,5 @@ NASCIMENTO : {c[3]}
       
 ©WOLFOFC''')
       break
-else:
-  print("Não Encontrado.")
+
+#Ainda Não coloquei a função de mostrar o texto caso o cpf não esteja na base, irei add em breve.
